@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Rabbit Hole</string>
+    <string name="loading_screen">Loading Screen</string>
+    <string name="network_status">Network Status</string>
+    <string name="no_internet_connectivity">No Internet Connectivity</string>
+    <string name="network_instructions">This mobile game requires Internet connectivity. Please check your settings and enable WiFi or Mobile Data.</string>
+    <string name="okay">Okay</string>
+    <string name="cancel">Cancel</string>
+    <string name="internet_connected">Internet Connected</string>
+    <string name="intro_video_container">Intro Video Container</string>
+    <string name="featured">Featured</string>
+    <string name="policy">Policy</string>
+    <string name="share">Share</string>
+    <string name="quit">Quit</string>
+    <string name="webapp_container">WebApp Container</string>
+    <string name="launch_bg">Launch BG</string>
+    <string name="play_button">Play Game</string>
+
+    <string name="facebook_app_id">3536949706627337</string>
+    <string name="facebook_client_token">15c53c71bb7df0768dba85fcf646c6ca</string>
+</resources>
